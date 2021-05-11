@@ -1,34 +1,68 @@
 import random
 
+import time
+
+time.sleep(0.10)
+
 print("\033[1;32m")
 
-print("***********************************************'*'")
+time.sleep(0.10)
 
-print("            TELEGRAM @MasteR_a8")
+print("♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡")
 
-print("*************************************************")
+time.sleep(0.10)
 
-print("            TIKTOK_abdullahassan15")
+print("<<<<<<<<<<<<<<<TELEGRAM @MasteR_a8>>>>>>>>>>>>>>>")
 
-print("*************************************************")
+time.sleep(0.10)
 
-print("            TEBENI PASSWORDAKAN COSTUMN")
+print(" ************************************************")
 
-print("*************************************************")
+time.sleep(0.10)
 
-print("            AUTO PASSWORD GENERATOR")
+print("<<<<<<<<<<<<<<<TIKTOK_abdullahassan15>>>>>>>>>>>>")
 
-print("*************************************************")
+time.sleep(0.10)
 
-print("__________________ABDULLAHASSAN__________________")
+print(" ************************************************")
 
-print("**************************************************")
+time.sleep(0.10)
 
-print("      ↓↓↓TKAYA TANHA BA ZHMARA HAL BZHERA↓↓↓")
+print("               TEBENI PASSWORDAKAN COSTUMN")
 
-print("*************************************************")
+time.sleep(0.10)
+
+print(" ************************************************")
+
+time.sleep(0.10)
+
+print("               AUTO PASSWORD GENERATOR")
+
+time.sleep(0.10)
+
+print(" ************************************************")
+
+time.sleep(0.10)
+
+print("___________________ABDULLAHASSAN_________________")
+
+time.sleep(0.10)
+
+print(" ************************************************")
+
+time.sleep(0.10)
+
+print("       ↓↓↓TKAYA TANHA BA ZHMARA HAL BZHERA↓↓↓")
+
+time.sleep(0.10)
+
+print(" ************************************************")
+
+time.sleep(0.10)
 
 chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456!£$%^&*(`)"
+
+time.sleep(0.10)
 
 print("\033[1;31m")
 
@@ -48,4 +82,6 @@ while 1:
 
             password      = password + password_char
 
-        print("    AWANA PASSWORDAKANN}♡ ", password)
+        time.sleep(0.10)  
+
+        print("    {PASSWORDAKAN}->", password)
