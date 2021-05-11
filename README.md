@@ -1,19 +1,19 @@
 # Auto-password-generator
 
 
-1/pedawestyakan
+1=/pedawestyakan
 
 
-$pkg upgrade
+2=$pkg upgrade
 
 
-$pkg update
+3=$pkg update
 
 
-$pkg install python
+4=$pkg install python
 
 
-$git clone https://github.com/Abdullahack/Auto-password-generator
+5=$git clone https://github.com/Abdullahack/Auto-password-generator
 
 
-Tkaya daskare maka ka daskaresht krd nawe ema bena
+6)Tkaya daskare maka ka daskaresht krd nawe ema bena
